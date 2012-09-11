@@ -29,7 +29,11 @@ dispath_table = {
 
 	"/konflit" :
 
+
 	"kuk"
+
+	"baf"
+
 
 
 }
