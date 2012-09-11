@@ -24,6 +24,10 @@ dispath_table = {
 		webpublisher.GET,
 		)
 
+
 	"/second test" :
+
+	"/konflit" :
+
 
 }
