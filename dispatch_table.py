@@ -3,7 +3,11 @@
 
 
 dispath_table = {
-
+	
+	"/login" : (web.login,
+		webpublisher.GET
+		)
+	
 	"/index" : (web.index,
 		webpublisher.GET
 		)
