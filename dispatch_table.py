@@ -24,4 +24,6 @@ dispath_table = {
 		webpublisher.GET,
 		)
 
+	"/konflit" :
+
 }
