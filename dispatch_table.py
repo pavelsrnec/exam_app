@@ -15,4 +15,9 @@ dispath_table = {
 	"/getbagr" : (web.bagr,
 		webplisher.GET
 		)
+
+	"/logout" : (web.logout,
+		webpublisher.GET,
+		)
+
 }
