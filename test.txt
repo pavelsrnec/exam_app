@@ -1,6 +1,7 @@
 # filename: test.txt
 start
-
+start
+finich
 
 baa
 
