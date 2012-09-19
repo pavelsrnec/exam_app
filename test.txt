@@ -1,7 +1,13 @@
 # filename: test.txt
 start
+
 start
 finich
+
+begin
+end
+
+>>>>>>> master
 
 baa
 
